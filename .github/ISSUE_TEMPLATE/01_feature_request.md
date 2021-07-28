@@ -15,7 +15,7 @@ Hello 👋,
 
 ### 🕵️‍♀️ How to reproduce the current behavior? 
 
->  (to delete) How can we can reprodue the current behavion
+>  (to delete) How can we can reproduce the current behavior
 
 ###   🤞 What is the expected behavior?
 
