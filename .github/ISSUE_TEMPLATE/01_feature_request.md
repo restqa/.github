@@ -11,7 +11,7 @@ Hello 👋,
 
 ### ✌️ What is the actual behavior? 
 
->  (to delete) What is the current RestQA behavior regargind this feature
+>  (to delete) What is the current RestQA behavior regardind this feature
 
 ### 🕵️‍♀️ How to reproduce the current behavior? 
 
