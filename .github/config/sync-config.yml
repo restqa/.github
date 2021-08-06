@@ -1,3 +1,4 @@
+# configuration for the github action : BetaHuhn/repo-file-sync-action
 group:
   # prettier workflow
   - files:
