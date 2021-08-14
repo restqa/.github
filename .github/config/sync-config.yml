@@ -5,13 +5,13 @@ group:
       - source: code-analysis/.prettierrc
         dest: .prettierrc
     repos: |
-      restqa/restqa
-      restqa/restqapi
+      restqa/restqa@master
+      restqa/restqapi@master
    # linter workflow
   - files:
       - source: code-analysis/.eslintrc
         dest: .eslintrc
     # TODO(tony-go): add other repositories
     repos: |
-      restqa/restqa
-      restqa/restqapi
+      restqa/restqa@master
+      restqa/restqapi@master
