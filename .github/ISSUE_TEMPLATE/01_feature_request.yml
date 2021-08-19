@@ -1,0 +1,72 @@
+name: Feature Request
+description: "Want to request for a feature? 🦏"
+labels: [Feature, Needs Triage]
+title: "🚀 [FEATURE]: "
+body:
+- type: markdown
+  attributes:
+    value: |
+      Hello 👋,
+      Thank you for your interest on RestQA
+- type: textarea
+  id: background
+  attributes:
+    label: 👀 Background
+    description: What is the background of the need ?
+    placeholder: As an engineer i like to ...
+  validations:
+    required: true
+- type: textarea
+  id: actual-behavior
+  attributes:
+    label: ✌️ What is the actual behavior?
+    description:  What is the current RestQA behavior regargind this feature
+    placeholder: Currently the behavior is ...
+  validations:
+    required: true
+- type: textarea
+  id: reproduce-actual-behavior
+  attributes:
+    label: 🕵️‍♀️ How to reproduce the current behavior?
+    description:  How can we can reprodue the current behavior
+    placeholder:  |
+      1. In this environment...
+      2. With this config...
+      3. Run '...'
+      4. See error...
+  validations:
+    required: false
+- type: textarea
+  id: expected-behavior
+  attributes:
+    label: 🤞 What is the expected behavior?
+    description:  How can we can reprodue the current behavior
+  validations:
+    required: true
+- type: textarea
+  id: proposed-solution
+  attributes:
+    label: 😎 Proposed solution.
+    description:  Proposed solution if you thought of one
+  validations:
+    required: false
+- type: dropdown
+  id: contribute
+  attributes:
+    label: 🙏 Would you be willing to submit a PR?
+    description: We are constantly looking for contributors :)
+    options:
+     - "Yes"
+     - "No"
+- type: checkboxes
+  id: terms
+  attributes:
+    label: Code of Conduct
+    description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/restqa/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+    options:
+     - label: I agree to follow this project's Code of Conduct
+       required: true
+- type: markdown
+  attributes:
+    value: |
+      Cheers
