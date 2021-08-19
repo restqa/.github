@@ -1,0 +1,8 @@
+{
+    "name": "404 Links",
+    "description": "Linter for markdown links",
+    "iconName": "404-links",
+    "categories": [
+        "Markdown"
+    ]
+}
