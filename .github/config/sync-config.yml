@@ -4,14 +4,8 @@ group:
   - files:
       - source: code-analysis/.prettierrc
         dest: .prettierrc
-    repos: |
-      https://github.com/restqa/restqa@master
-      https://github.com/restqa/restqapi@master
-   # linter workflow
-  - files:
       - source: code-analysis/.eslintrc
         dest: .eslintrc
-    # TODO(tony-go): add other repositories
     repos: |
       https://github.com/restqa/restqa@master
       https://github.com/restqa/restqapi@master
