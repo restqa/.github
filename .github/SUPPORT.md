@@ -59,7 +59,7 @@ See [`contributing.md`][contributing] on how to contribute.
 
 [author]: https://olivierodo.me
 
-[coc]: https://github.com/restqa/.github/blob/main/CODE_OF_CONDUCT.md
+[coc]: https://github.com/restqa/.github/blob/main/.githhb/CODE_OF_CONDUCT.md
 
 [xy]: https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378
 
