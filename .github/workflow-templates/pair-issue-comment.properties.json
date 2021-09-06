@@ -1,0 +1,9 @@
+{
+    "name": "Open Pair programming",
+    "description": "Automate the Open pair programming flow 😇",
+    "iconName": "pair-issue-comment",
+    "categories": [
+        "Issues"
+    ]
+}
+
