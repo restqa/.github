@@ -1,7 +1,12 @@
-Want to contribute ?
+Hey,
+Did you notice we tagged this issue as **good first issue**, would you consider to contribute?
 
-Join our [Discord server](https://restqa.io/chat), our community is ready to support you.
+It's very simple:
 
-Then ask your question into the `_🙏_contribution` channel.
+1. Take a look at our [Contribution guideline](./CONTRIBUTING.md)
+2. Join our [Discord server](https://restqa.io/chat), our community is ready to support you. 
+3. Ask your question into the `_🙏_contribution` channel
+
+---
 
 ![meme](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
