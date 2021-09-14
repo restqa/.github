@@ -14,7 +14,7 @@ jobs:
         id: step_one
         run: |
              echo 'TEMPLATE<<EOF' >> $GITHUB_ENV
-             curl https://raw.githubusercontent.com/restqa/.github/master/.github/open-pair-programming/olivierodo-template.md >> $GITHUB_ENV
+             curl https://raw.githubusercontent.com/restqa/.github/master/.github/issue-comments/open-pair-programming/olivierodo-template.md >> $GITHUB_ENV
              echo 'EOF' >> $GITHUB_ENV
       - name: Add comment on the issue
         uses: peter-evans/create-or-update-comment@v1
