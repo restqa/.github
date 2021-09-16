@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./wapi.png" />
+  <img src="./profile/wapi.png" />
   <h3>RestQA is a ready to use platform to automate the test of your API and Microservices respecting your data privacy.</h3>
 </p>
 
