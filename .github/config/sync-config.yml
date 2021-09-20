@@ -9,3 +9,4 @@ group:
     repos: |
       https://github.com/restqa/restqa@master
       https://github.com/restqa/restqapi@master
+      https://github.com/restqa/faker-plugin@master
