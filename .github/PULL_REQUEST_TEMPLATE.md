@@ -8,7 +8,7 @@
 
 ## Related issues
 
-> Fix [#1]() 
+Fix #1
 
 ## Checklists
 
