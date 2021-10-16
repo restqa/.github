@@ -1,4 +1,4 @@
-> This issue has been tagged with the label [Pair with maintainer](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A"pair+with+maintainer"+archived%3Afalse+user%3Arestqa), then you can engage the main maintainer to solve this issue by pairing with you.
+> This issue has been tagged with the label [Pair with maintainer](https://restqa.io/pair), then you can engage the main maintainer to solve this issue by pairing with you.
 
 👉 Feel free to book a session by following the instruction here: 
 
